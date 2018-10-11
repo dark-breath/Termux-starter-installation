@@ -22,9 +22,10 @@ pkg upgrade
 echo "=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/"
 echo "      Installation Finished       "
 echo "\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\"
-echo "Press Enter"
-echo "Thank You"
-echo "Have a Good Day"
-echo "Press Enter"
+
+
+
+echo "Have A Nice Day"
+echo "press enter to finish"
 read ENTER
 clear
