@@ -6,7 +6,7 @@ echo    "================================================"
 echo "Press Enter To Continue"
 echo "Press CTRL+C To Cancel"
 read ENTER
-echo "installing basic programs"
+echo "installing basic programs........////////\\\\\\\......."
 pkg update
 pkg upgrade
 pkg install nmap
